@@ -1,4 +1,4 @@
-# ITSM pour débutants (niveau “je pars de zéro”)
+# ITSM pour débutants (niveau “je pars de zéro / intorduction au "vocabulaire"”)
 
 ## C’est quoi l’ITSM ?
 ITSM veut dire **IT Service Management** : c’est la façon “organisée” dont une entreprise gère l’aide informatique.
