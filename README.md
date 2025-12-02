@@ -16,9 +16,9 @@ EN — ITSM portfolio demo built with Jira Service Management (JSM) + Confluence
 
 | # | Item | Proof |
 |---|------|------|
-| 01 | Customer portal | ![portal](screenshots/01-portal.png) |
-| 02 | Sample ticket | ![ticket](screenshots/02-ticket.png) |
-| 03 | Roles & access | ![roles](screenshots/03-roles.png) |
+| 01 | Customer portal | ![portal](screenshots/Portail_itsm.png) |
+| 02 | Sample ticket | ![ticket](screenshots/02-incident-vpn-ticket.png) |
+| 03 | Roles & access | ![roles](screenshots/03-workflow.png) |
 | 04 | SLA setup | ![sla](screenshots/04-sla.png) |
 | 05 | Automation rule | ![automation](screenshots/05-automation.png) |
 | 06 | Dashboard | ![dashboard](screenshots/06-dashboard.png) |
